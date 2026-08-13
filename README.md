@@ -2,7 +2,7 @@
 a uart com tool based on python pyqt5
 
 ## 1 how to use
-- **1** install python 3.13.14
+- **1** install python 3.13.14, usually python3 should be ok
 - **2** 'pip install PyQt5==5.15.11 pyqt5_sip==12.18.0 pyserial==3.5' or 'pip install -r requirements.txt'
 - **3** run : python main.py
 
