@@ -1,5 +1,5 @@
-# uart-com-tool
-a uart com tool based on python pyqt5
+# uart-com-gui-tool
+a uart com gui tool based on python pyqt5
 
 ## 1 how to use
 - **1** install python 3.13.14, usually python3 should be ok
